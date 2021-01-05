@@ -1,7 +1,7 @@
 # Spark-Foundation-Internship-Task1
 #IoT & ComputerVision Internship
 
-#GRISPDEC2020
+#GRIPDEC2020
 
 #Object Detection / Optical Character Recognition (ORC)
 
